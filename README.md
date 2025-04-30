@@ -1,5 +1,6 @@
 # ClimateWins_repo
-![image](https://github.com/user-attachments/assets/8e24bdb5-5b20-41bc-b453-5c131947377c)
+![image](https://github.com/user-attachments/assets/51c47901-2047-4e2e-a04f-d6a5828c935c)
+
 
 Machine Learning Weather Prediction by ClimateWins 
 Python project - optimization towards weather solution and models development on data set.
